@@ -1,0 +1,9 @@
+values are stored n dictionary in the form of key,value pairs
+duplicates keys are not allowed
+
+
+eg--->
+roll:100,name:ajay course:bca
+roll,name,course
+
+student={"roll":100,"name"="ajay","course"="bca"}
