@@ -15,9 +15,9 @@ print("roll" in students)
 
 #check total in students else add add total(key,val) pair
 if ("total" not in students):
-    students["total"]="150"
+    students["total"]=150
     print(students)
 
 #to update the value
 students["total"]+=50
-#print(students)
+print(students)
