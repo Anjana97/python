@@ -1,0 +1,6 @@
+#varialble name rule
+strating with a-k
+second character should be a digit and must be divisible by 3
+followed  by any number of charcters
+z2rrg => invalid
+B7vggg =>valid

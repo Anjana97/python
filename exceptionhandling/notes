@@ -1,0 +1,7 @@
+exception
+error
+
+
+try; abnormal code
+exception: works when an exeception occurs
+finally : cleanup processing i.e it will show the output when exception occurs or not. ie. it dosent care the exception
